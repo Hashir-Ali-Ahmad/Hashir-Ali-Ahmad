@@ -57,7 +57,11 @@ const hashir = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hashir-Ali-Ahmad&show_icons=true&count_private=true&hide_border=true&bg_color=0f1117&title_color=b392f0&icon_color=00adb5&text_color=e7e9ee&ring_color=b392f0" alt="stats" />
+<!-- Stats card temporarily hataya — github-readme-stats.vercel.app 503 (overloaded).
+     Apna instance self-host karne ke baad (README ke neeche Option-A steps), ye line wapas add karo
+     aur YOUR-INSTANCE ko apne vercel URL se replace karo:
+<img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=Hashir-Ali-Ahmad&show_icons=true&count_private=true&hide_border=true&bg_color=0f1117&title_color=b392f0&icon_color=00adb5&text_color=e7e9ee&ring_color=b392f0" alt="stats" />
+-->
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Hashir-Ali-Ahmad&hide_border=true&background=0f1117&stroke=b392f0&ring=b392f0&fire=00adb5&currStreakLabel=b392f0&sideNums=e7e9ee&sideLabels=8b90a0&dates=8b90a0&currStreakNum=e7e9ee" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashir-Ali-Ahmad&bg_color=0f1117&color=e7e9ee&line=b392f0&point=00adb5&area=true&area_color=b392f0&hide_border=true&custom_title=Contribution%20Graph&height=280" width="98%" alt="activity graph" />
