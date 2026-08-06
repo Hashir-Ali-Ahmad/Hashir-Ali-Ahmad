@@ -85,7 +85,23 @@ const hashir = {
 
 <br/>
 
+## <img src="https://media.giphy.com/media/RM0Kk3wCAvJnrPbFmr/giphy.gif" width="26"> Watch My Contributions Get Eaten
+
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hashir-Ali-Ahmad/Hashir-Ali-Ahmad/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hashir-Ali-Ahmad/Hashir-Ali-Ahmad/output/github-snake.svg" />
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/Hashir-Ali-Ahmad/Hashir-Ali-Ahmad/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="dev quote" />
+
+<br/><br/>
 
 <i>“It works” is only half the job — the other half is making it feel right.</i>
 
