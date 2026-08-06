@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b392f0,100:00adb5&height=210&section=header&text=Hashir%20Ali%20Ahmad&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=MERN%20Full-Stack%20Developer%20%7C%20Premium%2C%20Motion-Rich%20Web%20Experiences&descAlignY=54&descSize=17&animation=fadeIn" alt="Hashir Ali Ahmad" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:b392f0,100:0f1117&height=230&section=header&text=Hashir%20Ali%20Ahmad&fontSize=46&fontColor=ffffff&fontAlignY=32&desc=MERN%20Full-Stack%20Developer%20%7C%20Premium%2C%20Motion-Rich%20Web%20Experiences&descAlignY=50&descSize=16&animation=fadeIn" alt="Hashir Ali Ahmad" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=B392F0&center=true&vCenter=true&width=560&height=45&lines=Building+production+web+apps+%40+Mercury+Sols;React+%7C+Next.js+%7C+NestJS+%7C+MongoDB+%7C+Supabase;Chasing+that+Awwwards-tier+feel+%E2%9C%A8" alt="typing" />
 
