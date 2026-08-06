@@ -151,16 +151,15 @@ const hashir = {
 
 ---
 
-<!-- 🐍 SNAKE: Action setup ke baad ye live ho jayega (instructions file ke END mein) -->
+<!-- 🐍 SNAKE — Action set karne ke baad neeche wala block UNCOMMENT karo (setup END mein). Tab tak hidden:
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hashir-Ali-Ahmad/Hashir-Ali-Ahmad/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hashir-Ali-Ahmad/Hashir-Ali-Ahmad/output/snake.svg" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hashir-Ali-Ahmad/Hashir-Ali-Ahmad/output/snake.svg" />
 </picture>
-
 </div>
+-->
 
 ---
 
