@@ -1,74 +1,45 @@
-<!--
-  ════════════════════════════════════════════════════════════════
-  👋 SETUP (ek baar):
-  1. GitHub pe ek NAYA repo banao jiska naam EXACTLY tumhara username ho:
-     Hashir-Ali-Ahmad   (repo name = username — GitHub isse "special" maanta hai)
-  2. "Add a README file" tick karo (ya baad mein README.md banao)
-  3. Is file ka POORA content copy karke us README.md mein paste kar do → Commit
-  4. Profile pe khud-ba-khud animated dikhne lagega ✨
-
-  🎨 Colors tumhare portfolio se match karte hain:
-     violet #b392f0 · teal #00adb5 · dark canvas #0f1117
-
-  ⚙️ 2 cheezein extra setup maangti hain (file ke END mein instructions):
-     🐍 Snake animation  +  ⏱️ WakaTime coding stats
-  ════════════════════════════════════════════════════════════════
--->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=B392F0&center=true&vCenter=true&width=650&height=60&lines=Hi+%F0%9F%91%8B+I'm+Hashir+Ali+Ahmad;Full-Stack+Developer+(MERN);Next.js+%7C+NestJS+%7C+MongoDB+%7C+Supabase;I+build+premium%2C+motion-rich+web+apps" alt="Hashir Ali Ahmad" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b392f0,100:00adb5&height=210&section=header&text=Hashir%20Ali%20Ahmad&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=MERN%20Full-Stack%20Developer%20%7C%20Premium%2C%20Motion-Rich%20Web%20Experiences&descAlignY=54&descSize=17&animation=fadeIn" alt="Hashir Ali Ahmad" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=B392F0&center=true&vCenter=true&width=560&height=45&lines=Building+production+web+apps+%40+Mercury+Sols;React+%7C+Next.js+%7C+NestJS+%7C+MongoDB+%7C+Supabase;Chasing+that+Awwwards-tier+feel+%E2%9C%A8" alt="typing" />
 
 <p>
-  <a href="https://hashiraliahmad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hashiraliahmad.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://hashiraliahmad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/hashiraliahmad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hashir.47a@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Hashir-Ali-Ahmad&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Hashir-Ali-Ahmad&style=for-the-badge&color=8B5CF6&label=VIEWS" alt="views" />
 </p>
 
 </div>
 
----
-
-### 🚀 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> About Me
 
 ```ts
 const hashir = {
-  role:      "Junior Full-Stack Developer",
-  company:   "Mercury Sols",
+  role:      "Junior Full-Stack Developer @ Mercury Sols",
   location:  "Rahim Yar Khan, Pakistan 🇵🇰",
   education: "BS Information Technology — CGPA 3.88/4.00",
-  stack:     ["React", "Next.js", "NestJS", "Node.js", "MongoDB", "Supabase"],
+  stack:     ["React", "Next.js", "NestJS", "Node", "MongoDB", "Supabase"],
   focus:     ["Premium UI", "Scroll animations", "3D on the web", "Performance"],
-  currently: "Building production web apps + chasing that Awwwards-tier feel ✨",
+  mantra:    "'It works' is only half the job — the other half is making it feel right.",
 };
 ```
 
-- 🔭 Currently building real products at **Mercury Sols** with the **MERN** stack
-- 🎨 Obsessed with **premium, motion-rich interfaces** — GSAP, Lenis, Framer Motion, React Three Fiber
-- 🌱 Sharpening **backend depth** (NestJS, Supabase, Stripe, real-time sockets) & **AI integrations**
+- 🔭 Building real products at **Mercury Sols** with the **MERN** stack
+- 🎨 Obsessed with **premium, motion-rich interfaces** — GSAP · Lenis · Framer Motion · React Three Fiber
+- 🌱 Going deeper on **NestJS · Supabase · Stripe · real-time sockets · AI integrations**
 - 💬 Ask me about **React / Next.js, animations, or full-stack architecture**
-- 📫 Reach me: **hashir.47a@gmail.com**
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> Tech Stack
 
 <div align="center">
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,nestjs,express,mongodb,supabase,postgres,git,github,figma,vscode,vercel&theme=dark&perline=9" alt="tech" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="frontend" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,supabase,postgres&theme=dark" alt="backend" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,vite&theme=dark" alt="tools" />
-
-<br/>
+<br/><br/>
 
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-b392f0?style=flat-square&logo=framer&logoColor=white)
@@ -80,44 +51,22 @@ const hashir = {
 
 </div>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/W5epP4wG8V9y2W5Nlv/giphy.gif" width="26"> GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hashir-Ali-Ahmad&show_icons=true&count_private=true&hide_border=true&bg_color=0f1117&title_color=b392f0&icon_color=00adb5&text_color=e7e9ee" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hashir-Ali-Ahmad&show_icons=true&count_private=true&hide_border=true&bg_color=0f1117&title_color=b392f0&icon_color=00adb5&text_color=e7e9ee&ring_color=b392f0" alt="stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Hashir-Ali-Ahmad&hide_border=true&background=0f1117&stroke=b392f0&ring=b392f0&fire=00adb5&currStreakLabel=b392f0&sideNums=e7e9ee&sideLabels=8b90a0&dates=8b90a0&currStreakNum=e7e9ee" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashir-Ali-Ahmad&bg_color=0f1117&color=e7e9ee&line=b392f0&point=00adb5&area=true&area_color=b392f0&hide_border=true&custom_title=Contribution%20Graph&height=280" width="98%" alt="activity graph" />
+
+</div>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-Ali-Ahmad&layout=compact&hide_border=true&bg_color=0f1117&title_color=b392f0&text_color=e7e9ee&langs_count=8" alt="top langs" />
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashir-Ali-Ahmad&bg_color=0f1117&color=e7e9ee&line=b392f0&point=00adb5&area=true&area_color=b392f0&hide_border=true&custom_title=Hashir's%20Contribution%20Graph" alt="activity graph" />
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hashir-Ali-Ahmad&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
-
-</div>
-
----
-
-### 🌟 Featured Projects
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> Featured Projects
 
 <div align="center">
 
@@ -128,56 +77,26 @@ const hashir = {
 | ✨ **Spring Forever** *(Mercury Sols)* | Full-stack site with interactive 3D, multi-language, Stripe payments & maps | `React` `NestJS` `Three.js` `Stripe` |
 | 🛒 **CraftiGalaxy** *(Mercury Sols)* | E-commerce marketplace — Supabase, Stripe checkout, PWA & rich motion | `React` `Supabase` `Stripe` `PWA` |
 
+<br/>
+
+<a href="https://hashiraliahmad.vercel.app"><img src="https://img.shields.io/badge/🔗_Explore_all_15+_projects_on_my_Portfolio-8B5CF6?style=for-the-badge" alt="portfolio" /></a>
+
 </div>
 
-<div align="center">
-  <a href="https://hashiraliahmad.vercel.app"><img src="https://img.shields.io/badge/🔗_See_all_15+_projects_on_my_Portfolio-8B5CF6?style=for-the-badge" alt="portfolio" /></a>
-</div>
-
----
-
-### ⏱️ Weekly Coding Stats
-
-<!--
-  WakaTime card yahan aayega — pehle setup karo (file ke END mein instructions),
-  phir neeche wale <img> se HTML comment hata do aur YOUR_WAKATIME_USERNAME bharo.
--->
-<!--
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&hide_border=true&bg_color=0f1117&title_color=b392f0&text_color=e7e9ee" alt="wakatime" />
-</div>
--->
-<div align="center"><i>⚙️ WakaTime connect karo (neeche instructions) — phir yahan live coding-time breakdown aayega.</i></div>
-
----
-
-<!-- 🐍 SNAKE — Action set karne ke baad neeche wala block UNCOMMENT karo (setup END mein). Tab tak hidden:
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hashir-Ali-Ahmad/Hashir-Ali-Ahmad/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hashir-Ali-Ahmad/Hashir-Ali-Ahmad/output/snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hashir-Ali-Ahmad/Hashir-Ali-Ahmad/output/snake.svg" />
-</picture>
-</div>
--->
-
----
+<br/>
 
 <div align="center">
 
 <i>“It works” is only half the job — the other half is making it feel right.</i>
 
-<br/><br/>
-
-⭐️ From [Hashir-Ali-Ahmad](https://github.com/Hashir-Ali-Ahmad) · Built with 💜 in Rahim Yar Khan
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00adb5,100:b392f0&height=120&section=footer&animation=fadeIn" alt="footer" />
 
 <!--
   ════════════════════════════════════════════════════════════════
-  🐍 SNAKE ANIMATION SETUP (2 min):
-  1. Profile repo mein file banao: .github/workflows/snake.yml
-  2. Ye daalo:
+  🐍 SNAKE ANIMATION (optional, 2 min) — contribution graph ko snake khaata hai:
+  1. Repo mein file: .github/workflows/snake.yml  →  ye daalo:
 
   name: Generate Snake
   on:
@@ -190,27 +109,20 @@ const hashir = {
         - uses: Platane/snk@v3
           with:
             github_user_name: Hashir-Ali-Ahmad
-            outputs: |
-              dist/snake.svg
-              dist/snake-dark.svg?palette=github-dark
+            outputs: dist/github-snake.svg
         - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          with: { target_branch: output, build_dir: dist }
+          env: { GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}" }
 
-  3. Actions tab → "Generate Snake" → Run workflow (ek baar manually)
-  4. Har 12 ghante auto-update. (Jab tak set nahi, snake image broken dikhegi —
-     tab tak upar wale <picture> block ko hata sakte ho.)
+  2. Actions tab → "Generate Snake" → Run workflow (ek baar)
+  3. Phir "Featured Projects" ke neeche ye line paste karo:
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Hashir-Ali-Ahmad/Hashir-Ali-Ahmad/output/github-snake.svg" alt="snake" />
+  </div>
 
   ════════════════════════════════════════════════════════════════
-  ⏱️ WAKATIME SETUP (coding-time stats):
-  1. https://wakatime.com pe sign up karo (free)
-  2. VS Code mein "WakaTime" extension install + API key daalo
-  3. WakaTime → Settings → "Display coding activity publicly" ON karo
-  4. Upar "Weekly Coding Stats" wale HTML comment ko hata do aur
-     YOUR_WAKATIME_USERNAME ki jagah apna wakatime username daalo.
-  (Kuch din code karoge tab data bharega.)
+  ℹ️ Agar koi stats/graph image kabhi broken dikhe → wo service (vercel)
+     us waqt rate-limited hai. Refresh karo, wapas load ho jayegi. Ye normal hai.
   ════════════════════════════════════════════════════════════════
 -->
